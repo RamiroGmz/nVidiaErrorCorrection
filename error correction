@@ -1,0 +1,13 @@
+cudaECC
+Error correction codes using the graphic card (nVidia)
+
+This is error correction code software that uses the CUDA capabilities of nVidia graphic cards to compute the fastest way possible Error Correction Codes for any file, of any size. It has been tested on files larger than 60 GB and its compute time reduces dramatically compared to CPU computing, from the fact it uses massive paralell capabilities of graphic cards.
+
+Main details:
+
+Based on industry standard redundancy codes.
+Support custom config (eg. number of CUDA cores to use, max error correction capability)
+You can specify max percent rate of error correction over a file.
+You can use it on your open or commercial source codes.
+
+This code is for sale ;)  so feel free to send me a line if you are interested (ramirogomez1985 at gmail dot com).
