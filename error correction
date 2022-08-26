@@ -6,8 +6,8 @@ This is error correction code software that uses the CUDA capabilities of nVidia
 Main details:
 
 Based on industry standard redundancy codes.
-Support custom config (eg. number of CUDA cores to use, max error correction capability)
+Support custom config (eg. number of CUDA cores to use, max error correction capability).
 You can specify max percent rate of error correction over a file.
 You can use it on your open or commercial source codes.
 
-This code is for sale ;)  so feel free to send me a line if you are interested (ramirogomez1985 at gmail dot com).
+This code is for sale, so feel free to send me a line if you are interested (ramirogomez1985 at gmail dot com).
